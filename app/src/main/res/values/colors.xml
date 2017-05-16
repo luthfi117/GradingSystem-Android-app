@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4072d1</color>
+    <color name="colorPrimaryDark">#4072d1</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="hint_anu">#ffffff</color>
+    <color name="warnabar_home">#4f73b5</color>
+    <color name="warnastatusbar_home">#3e5786</color>
+    <color name="warna_bg">#f7f7f7</color>
+</resources>
